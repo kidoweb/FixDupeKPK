@@ -1,4 +1,4 @@
-# Fix Dupe KPK (КПК) для S.T.A.L.K.E.R. Call of Chernobyl
+# Fix Dupe KPK (КПК) 
 
 Этот мод исправляет дюп денег через КПК в S.T.A.L.K.E.R. Call of Chernobyl - Global War.
 
